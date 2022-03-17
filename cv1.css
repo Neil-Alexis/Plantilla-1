@@ -1,0 +1,108 @@
+#cv-cv {
+  color: #515151;
+  position: relative;
+  width: 800px;
+  height: 1120px;
+  background-color: white;
+  display: flex;
+  box-sizing: border-box;
+  border: 0.5px white solid;
+  overflow-y: hidden;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+.cv-sectionuser{
+ background-color: rgb(238, 238, 238);
+ padding: 2%;
+ height: 65%;
+
+}
+
+.cv-photo{
+  height: 10em;
+  width: 11em;
+  border: 5px solid black;
+
+
+}
+
+.cv-name{
+  font-size: 1.5em;
+  color: black;
+  margin-top: -0px;
+
+}
+
+
+.cv-lastname{
+  font-size: 1.5em;
+  font-weight: 900;
+  color: black;
+  margin-top: -20px;
+}
+.cv-developer{
+  font-size: 1.1em;
+   background-color: black;
+   color: white;
+  padding-left: 10px;
+  margin-top: -20px;
+}
+.cv-contacme,.cv-skil,.cv-langu{
+  background-color:  #d0d3d4;
+  font-size: 1em;
+  padding-left: 10px;
+  color: black;
+
+}
+.cv-email,.cv-phone,.cv-website{
+  font-size: 0.7em;
+
+}
+.cv-suite,.cv-google-suite,.cv-gcodestack{
+  font-size: 0.8em;
+  line-height: 1em;
+}
+.cv-sui,.cv-cod,.cv-nati,.cv-adva,.cv-Begi{
+  color: black;
+  padding: 0.3px;
+
+}
+.cv-Begi,.cv-adva,.cv-Begi{
+  font-size: 1em;
+}
+.cv-italian,.cv-spanish,.cv-engli{
+      display: grid;
+     font-size: 1rem;
+        width: 100%;
+        grid-template-columns: 50% 50%;
+           margin: 10px;
+               margin-left: 1.140em;
+           margin-right: 20px;
+        margin-left: -0em;
+        font-size: 0.8em;
+}
+.cv-me,.cv-experenci,.cv-educa{
+  background-color: rgb(231, 228, 228);
+  font-size: 1em;
+  padding-left: 0.5em;
+  margin-left: 1.3em;
+  color: black;
+}
+.cv-textone,.cv-texttree,.cv-texfour,.cv-textfive,.cv-texttwo{
+  font-size: 0.8em;
+  margin-left: 1.5em;
+}
+.cv-now-one,.cv-nowtree,.now-four,.cv-nowsix{
+  font-size: 0.7em;
+  color: rgb(0, 0, 0);
+  margin-left: 1.7em;
+  font-weight:bold;
+}
+.cv-frontmanager,.cv-elec,.cv-tech,.cv-front{
+  font-size: 0.9em;
+  margin-left: 1.3em;
+}
+.cv-apple,.cv-sansung,.cv-standford,.cv-hig{
+  color: black;
+}
